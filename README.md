@@ -3,7 +3,7 @@
 > **An AI-Powered Interface for Epistemic Diversity**  
 > **一个用于探索认知多样性的 AI 增强工具**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://the-bias-detective.streamlit.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **The Bias Detective** is a cognitive tool designed to break echo chambers. Instead of giving you "the answer," it analyzes any news event or historical moment through **three distinct analytical lenses** simultaneously. Inspired by the *Rashomon Effect*, it forces us to confront the reality that truth is often a matter of perspective.
